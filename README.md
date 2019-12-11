@@ -1,0 +1,2 @@
+# Godfather
+I want to build an app thats designed for tuition and helps keep notes of lots of information as well as displaying lots of features: Presence level, notes, videos link to youtube, quizes and also a special chat system which the teacher assign each specific student with a unique set of ID.. there is much more and I need to deploy this as fast as possible and i have no prior knnowledge of programming. Please help me just because of this small school project
